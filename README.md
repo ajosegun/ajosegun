@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olusegun AJOSE
 - 👀 I’m working on various Machine Learning Projects
-- 🌱 I’m currently learning Artificial Intelligence and Data Science
+- 🌱 Building ethical Artificial Intelligence and Data Science solutions
 - 💞️ You can get in touch for collaborations on AI and ML projects
 - 📫 How to reach me via email: ajoseolusegun@gmail.com
 
