@@ -9,7 +9,7 @@ I am a Data Scientist and Machine Learning Engineer with 3+ years of experience 
 - Ethical AI Solutions
 - Business Focused ML Projects
 
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=python) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?style=plastic&logo=jupyter)
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=python&logoWidth=40) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?style=plastic&logo=jupyter) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=plastic&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?style=plastic&logo=pandas) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-green?style=plastic&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-red?style=plastic&logo=keras) ![AWS](https://img.shields.io/badge/-AWS-orange?style=plastic&logo=amazon-aws) ![Streamlit](https://img.shields.io/badge/-Streamlit-blue?style=plastic&logo=streamlit) ![Plotly](https://img.shields.io/badge/-Plotly-blue?style=plastic&logo=plotly) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=plastic&logo=microsoft-power-bi) ![Amazon QuickSight](https://img.shields.io/badge/-Amazon%20QuickSight-yellow?style=plastic&logo=amazon-aws) ![Slack](https://img.shields.io/badge/-Slack-blue?style=plastic&logo=slack) ![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker)
 
 
 
