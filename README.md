@@ -1,3 +1,5 @@
+<p align="center">Data Scientist | Data Engineer | Python Developer | Technical Writer</p>
+
 I am a Data Scientist and Machine Learning Engineer with 3+ years of experience in object-oriented programming (Python & C#), and expertise in leveraging machine learning and deep learning to solve real-life problems.  
 
 
