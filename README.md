@@ -1,4 +1,7 @@
-<p align="center">Data Scientist | Data Engineer | Python Developer | Technical Writer</p>
+<h2 align="center">Hi there, I'm Olusegun 👋</h2>
+
+## 🚀 About Me
+<h3 align="center">Data Scientist | Data Engineer | Python Developer | Technical Writer</h3>
 
 I am a Data Scientist and Machine Learning Engineer with 3+ years of experience in object-oriented programming (Python & C#), and expertise in leveraging machine learning and deep learning to solve real-life problems.  
 
