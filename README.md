@@ -12,7 +12,7 @@ I am a Data Scientist and Machine Learning Engineer with 3+ years of experience 
 ## Technical Skills
 
 - AI/ML/Data Science: 
-- 
+
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoWidth=40) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoWidth=40) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-green?style=flat&logo=scikit-learn&logoWidth=40) ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=postgresql&logoWidth=40) ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy&logoWidth=40) ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?style=flat&logo=pandas&logoWidth=40) ![NLP](https://img.shields.io/badge/-NLP-yellow?style=flat&logo=natural-language-processing&logoWidth=40) ![Plotly Express](https://img.shields.io/badge/-Plotly%20Express-blue?style=flat&logo=plotly&logoWidth=40) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-orange?style=flat&logo=beautifulsoup&logoWidth=40) ![Streamlit](https://img.shields.io/badge/-Streamlit-blue?style=flat&logo=streamlit&logoWidth=40)
 
 
@@ -48,8 +48,8 @@ ajoseolusegun@gmail.com
 Give me this in markdown
 
 **How to reach me**
-- [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)] ajoseolusegun@gmail.com
-- [![Bio](https://img.shields.io/badge/-Bio-00BFFF?style=for-the-badge&logo=notion&logoColor=white)] bio.link/ajosegun
+- ![Email(https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white&logoWidth=40) ajoseolusegun@gmail.com
+- ![Bio](https://img.shields.io/badge/-Bio-00BFFF?style=flat&logo=notion&logoColor=white&logoWidth=40) bio.link/ajosegun
 
 
 <!---
