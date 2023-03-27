@@ -46,7 +46,9 @@ ajoseolusegun@gmail.com
 Give me this in markdown
 
 **How to reach me**
+
 ![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white&logoWidth=40) ajoseolusegun@gmail.com
+
 ![Bio](https://img.shields.io/badge/-Bio-00BFFF?style=flat&logo=notion&logoColor=white&logoWidth=40) (https://bio.link/ajosegun)
 
 
