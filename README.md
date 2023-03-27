@@ -13,6 +13,10 @@ I am a Data Scientist and Machine Learning Engineer with 3+ years of experience 
 - Ethical AI Solutions
 - Business Focused ML Projects
 
+**Microsoft Certifications**
+Azure Data Scientist Associate ![Azure Data Scientist Associate](https://img.shields.io/badge/-Microsoft-0089D6?style=flat&logo=microsoft&logoColor=white&labelColor=0089D6) Azure AI Engineer Associate ![Azure AI Engineer Associate](https://img.shields.io/badge/-Microsoft-0089D6?style=flat&logo=microsoft&logoColor=white&labelColor=0089D6) Azure Fundamentals ![Azure Fundamentals](https://img.shields.io/badge/-Microsoft-0089D6?style=flat&logo=microsoft&logoColor=white&labelColor=0089D6)
+
+
 ### Tools I work with
 
 AI/ML/Data Science: 
