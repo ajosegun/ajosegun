@@ -23,7 +23,9 @@ I am a Data Scientist and Machine Learning Engineer with 3+ years of experience 
 
 - Amazon Web Services (AWS): 
 
-![Amazon EC2](https://img.shields.io/badge/-EC2-orange?style=flat&logo=amazon-ec2&logoWidth=40) ![Amazon ECS](https://img.shields.io/badge/-ECS-orange?style=flat&logo=amazon-ecs&logoWidth=40) ![Amazon ECR](https://img.shields.io/badge/-ECR-orange?style=flat&logo=amazon-ecr&logoWidth=40) ![Amazon S3](https://img.shields.io/badge/-S3-orange?style=flat&logo=amazon-s3&logoWidth=40) ![Amazon SageMaker](https://img.shields.io/badge/-SageMaker-orange?style=flat&logo=amazon-aws&logoWidth=40) ![Amazon QuickSight](https://img.shields.io/badge/-QuickSight-yellow?style=flat&logo=amazon-aws&logoWidth=40)
+![Amazon EC2](https://img.shields.io/badge/-EC2-orange?style=flat&logo=amazon-ec2&logoWidth=40) ![Amazon ECS](https://img.shields.io/badge/-ECS-orange?style=flat&logo=amazon-ecs&logoWidth=40) ![Amazon ECR](https://img.shields.io/badge/-ECR-orange?style=flat&logo=amazon-ecr&logoWidth=40) ![Amazon S3](https://img.shields.io/badge/-S3-orange?style=flat&logo=amazon-s3&logoWidth=40) ![Amazon SageMaker](https://img.shields.io/badge/-SageMaker-orange?style=flat&logo=amazon-aws&logoWidth=40) ![Amazon QuickSight](https://img.shields.io/badge/-QuickSight-yellow?style=flat&logo=amazon-aws&logoWidth=40) ![AWS Step Functions](https://img.shields.io/badge/-AWS%20Step%20Functions-orange?style=for-the-badge&logo=amazonaws)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-orange?style=for-the-badge&logo=amazonaws)
+
 
 
 
