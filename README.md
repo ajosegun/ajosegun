@@ -51,6 +51,9 @@ Web Development:
 
 ![Bio](https://img.shields.io/badge/-Bio-00BFFF?style=flat&logo=notion&logoColor=white&logoWidth=40) (https://bio.link/ajosegun)
 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ajosegun)
+
+
 
 <!---
 ajosegun/ajosegun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
