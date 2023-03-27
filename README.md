@@ -9,7 +9,7 @@ I am a Data Scientist and Machine Learning Engineer with 3+ years of experience 
 - Ethical AI Solutions
 - Business Focused ML Projects
 
-## Technical Skills
+### Tools I work with
 
 AI/ML/Data Science: 
 
