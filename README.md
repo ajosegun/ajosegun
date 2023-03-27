@@ -45,7 +45,7 @@ Web Development:
 
 ![Django](https://img.shields.io/badge/-Django-yellowgreen?style=flat&logo=django&logoWidth=40) ![FastAPI](https://img.shields.io/badge/-FastAPI-yellowgreen?style=flat&logo=fastapi&logoWidth=40) ![WordPress](https://img.shields.io/badge/-WordPress-yellowgreen?style=flat&logo=wordpress&logoWidth=40)
 
-### Connect With Me
+## Connect With Me
 
 ![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white&logoWidth=40) ajoseolusegun@gmail.com
 
