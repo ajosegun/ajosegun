@@ -9,7 +9,7 @@ I am a Data Scientist and Machine Learning Engineer with 3+ years of experience 
 - Ethical AI Solutions
 - Business Focused ML Projects
 
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 
 
