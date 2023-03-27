@@ -49,9 +49,8 @@ Web Development:
 
 ![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white&logoWidth=40) ajoseolusegun@gmail.com
 
-![Bio](https://img.shields.io/badge/-Bio-00BFFF?style=flat&logo=notion&logoColor=white&logoWidth=40) (https://bio.link/ajosegun)
+[![Bio](https://img.shields.io/badge/-Bio-00BFFF?style=flat&logo=notion&logoColor=white&logoWidth=40)(https://bio.link/ajosegun)] [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/olusegunajose/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ajosegun) [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@ajosegun_)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ajosegun)
 
 
 
